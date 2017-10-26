@@ -19,13 +19,13 @@ can [run as fast as C++][cpp_performace], and so it is [mainly
 used][cpp_applications] in development of games, device drivers, kernels, etc.
 where applications require direct communication with the hardware.
 
-Perfect [quote][cpp_problems] to describe learning C++: "Java and C# teach you
+Perfect quote to describe learning C++: "Java and C# teach you
 to swim in a kiddie pool with water wings, while C++ boots you naked off a cliff
 overlooking the breakers." C++ could be quite hard to learn, and some of its
 highlight features such as [templates][cpp_templates] have complex syntax, and
 require deep understanding to ensure their effective use. Although the main
 problem of the language, is not its complexity, but the subtlety to get it
-right. [There are cases where compiler accepts your code][cpp_problems], but
+right. There are cases where compiler accepts your code, but
 language standard does not specify any behaviour, meaning anything could happen,
 even the code seems to be working fine; other languages would try to catch these
 kind of errors during compilation.  As well as many non standard libraries have
@@ -284,7 +284,6 @@ using many examples and exercises.
 
 [OpenGL][opengl_wiki] in C++ [tutorial][opengl_cpp_tutorial].
 
-[cpp_problems]:https://www.quora.com/Why-is-C++-considered-a-bad-language
 [methods_wiki]:https://en.wikipedia.org/wiki/Method_(computer_programming)
 [libraries_wiki]:https://en.wikipedia.org/wiki/Library_(computing)
 [cpp_website]:http://www.cplusplus.com/
